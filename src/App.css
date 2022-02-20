@@ -1,0 +1,94 @@
+body {
+  background-color: rgb(216, 206, 194);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App-text {
+  font-size: 30px;
+  margin-left:250px;        
+}            
+
+
+.Sidebar {
+  flex: 0 1 30px;
+  margin: 20px;
+  overflow: auto;
+  padding: 16px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05), 0 0px 10px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+  flex-wrap: nowrap;
+  min-width: 610px;
+  padding: auto;
+  width: 100px;
+  background-color: rgb(155, 155, 179);
+  }
+
+.Title {
+  text-align: center;
+}
+
+.Container {
+  width: 30%;
+  margin: 0 auto;
+  margin-top: 45px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.CardWrapper {
+  flex: 0 1 30px;
+  margin-left: 20px;
+  overflow: auto;
+  padding: 16px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05), 0 0px 10px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+  flex-wrap: nowrap;
+  min-width: 10px;
+  padding: auto;
+  width: 610px;
+  vertical-align: top;
+  background-color: rgb(155, 155, 179);
+}
+
+.Header {
+  width: 100%;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.ColImg {
+  width: 30%;
+  float: left;
+}
+
+.ColDetail {
+  width:35%;
+  float: right;
+}
+
+.Img {
+  float: left;
+  margin: 0 0;
+align-self: start;
+
+}
+
+.BookTitle {
+  font-size: 30px;
+}
+
+.Description {
+  color: #757575;
+  font-size: 14px;
+  margin-bottom:10px;
+  color: black;
+}
+
+.Link {
+  font-size: 14px;
+  color: rebeccapurple;
+}

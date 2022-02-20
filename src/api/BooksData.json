@@ -1,0 +1,129 @@
+[
+    {
+    "id": 1,
+    "name": "Стив Джобс",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41dKkez-1rL._SX326_BO1,204,203,200_.jpg",
+    "author": "Уолтер Айзексон",
+    "url": "https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537"
+    },
+    {
+    "id": 2,
+    "name": "От нуля до одного",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/4137OkbPQ4L._SX331_BO1,204,203,200_.jpg",
+    "author": "Питер Тиль, Блейк Мастерс",
+    "url": "https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296"
+    },
+    {
+    "id": 3,
+    "name": "Прагматичный программист",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51cUVaBWZzL._SX380_BO1,204,203,200_.jpg",
+    "author": "Дэвид Томас, Эндрю Хант",
+    "url": "https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052"
+    },
+    {
+    "id": 4,
+    "name": "Проект 'Единорог'",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51A4T36jisL._SX334_BO1,204,203,200_.jpg",
+    "author": "Джин Ким",
+    "url": "https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762"
+    },
+    {
+    "id": 5,
+    "name": "Страстный программист",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51m3yzmDFCL._SX331_BO1,204,203,200_.jpg",
+    "author": "Чад Фаулер",
+    "url": "https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U"
+    },
+    {
+    "id": 6,
+    "name": "Hatching Twitter",
+    "image": "https://m.media-amazon.com/images/I/51YUkI5ZQ-L.jpg",
+    "author": "Nick Bilton",
+    "url": "https://www.amazon.com/Hatching-Twitter-Story-Friendship-Betrayal-ebook/dp/B00CDUVSQ0"
+    },
+    {
+    "id": 7,
+    "name": "How Google Works",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31Xc+yFta0L._SX327_BO1,204,203,200_.jpg",
+    "author": "Eric Schmidt, Jonathan Rosenberg",
+    "url": "https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582328"
+    },
+    {
+    "id": 8,
+    "name": "Elon Musk",
+    "image": "https://m.media-amazon.com/images/I/51tw6UjHpDL.jpg",
+    "author": "Ashlee Vance",
+    "url": "https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future-ebook/dp/B00KVI76ZS"
+    },
+    {
+    "id": 9,
+    "name": "Six Easy Pieces",
+    "image": "https://m.media-amazon.com/images/I/51E53HCUKVL.jpg",
+    "author": "Richard P. Feynman",
+    "url": "https://www.amazon.com/Six-Easy-Pieces-Essentials-Explained-ebook/dp/B004OVEYNU"
+    },
+    {
+    "id": 10,
+    "name": "Sapiens",
+    "image": "https://m.media-amazon.com/images/I/51Sn8PEXwcL.jpg",
+    "author": "Yuval Noah Harari",
+    "url": "https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A"
+    },
+    {
+    "id": 11,
+    "name": "Сила воли",
+    "image": "https://m.media-amazon.com/images/P/B00ZI8LG1G.01._SCLZZZZZZZ_SX500_.jpg",
+    "author": "Келли Макгонигал",
+    "url": "https://www.amazon.com/Сила-воли-развить-укрепить-Russian-ebook/dp/B00ZI8LG1G/ref=sr_1_1?crid=21NU3UQWVZ5GZ&keywords=сила+воли&qid=1645205909&s=digital-text&sprefix=сила+воли%2Cdigital-text%2C177&sr=1-1"
+    },
+    {
+    "id": 12,
+    "name": "Сила воли: 2",
+    "image": "https://m.media-amazon.com/images/P/B00ZI8LG1G.01._SCLZZZZZZZ_SX500_.jpg",
+    "author": "Елена Захаровна",
+    "url": "https://www.amazon.com/Сила-воли-развить-укрепить-Russian-ebook/dp/B00ZI8LG1G/ref=sr_1_1?crid=21NU3UQWVZ5GZ&keywords=сила+воли&qid=1645205909&s=digital-text&sprefix=сила+воли%2Cdigital-text%2C177&sr=1-1"
+    },
+    {
+    "id": 13,
+    "name": "Дюна",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/416mISzPcrL._SX316_BO1,204,203,200_.jpg",
+    "author": "Френк Герберт",
+    "url": "https://www.amazon.com/Duna-Gerbert-F/dp/5171189331/ref=sr_1_3?crid=2SVBS7YW1S6Y1&keywords=Дюна&qid=1645215273&s=digital-text&sprefix=дюна%2Cdigital-text%2C201&sr=1-3-catcorr"
+    },
+    {
+    "id": 14,
+    "name": "Как я стала лингвистом",
+    "image": "https://m.media-amazon.com/images/I/41+7ElmaFRL.jpg",
+    "author": "Лебовски Редгрейн",
+    "url": "https://www.amazon.com/Как-я-стала-лингвистом-Russian-ebook/dp/B014T30TVS/ref=sr_1_8?crid=2E3FO9MOWE24F&keywords=Сталь&qid=1645215518&s=digital-text&sprefix=сталь+%2Cdigital-text%2C315&sr=1-8"
+    },
+    {
+    "id": 15,
+    "name": "Гормоны счастья",
+    "image": "https://m.media-amazon.com/images/I/51UCM4mxDIL.jpg",
+    "author": "Лоретта Грациано Бройнинг",
+    "url": "https://www.amazon.com/Гормоны-счастья-вырабатывать-серотонин-окситоцин-ebook/dp/B01LAUC7RW/ref=sr_1_1?crid=159J7IX1CQ6L2&keywords=Гормоны+счастья&qid=1645217822&s=digital-text&sprefix=гормоны+счастья%2Cdigital-text%2C363&sr=1-1"
+    },
+    {
+    "id": 16,
+    "name": "Дом",
+    "image": "https://m.media-amazon.com/images/I/41A7JnkC+TL.jpg",
+    "author": "Михаля Элькина",
+    "url": "https://www.amazon.com/Дом-Russian-Элькина-Михаля-ebook/dp/B07VXJC86S/ref=sr_1_3?crid=4DEBZ33ZEKBY&keywords=Практический+интеллект&qid=1645217950&s=digital-text&sprefix=практический+интеллект%2Cdigital-text%2C178&sr=1-3"
+    },
+    {
+    "id": 17,
+    "name": "Мужская верность",
+    "image": "https://m.media-amazon.com/images/I/41rYGA-APlL.jpg",
+    "author": "Виктория Токарева",
+    "url": "https://www.amazon.com/верность-Виктория-Токарева-Гончарова-произведения-ebook/dp/B01D1WSAN2/ref=reads_cwrtbar_2/142-9230352-8012415?pd_rd_w=s40l0&pf_rd_p=0285128d-50e0-4388-acba-48a4a1f64720&pf_rd_r=2WEQHFSPAAMW8MDE9FMH&pd_rd_r=d1348e44-78ec-4021-8cf9-ed7e5393fcce&pd_rd_wg=0DP8k&pd_rd_i=B01D1WSAN2&psc=1"
+    },
+    {
+    "id": 18,
+    "name": "Подсознание может всё!",
+    "image": "https://m.media-amazon.com/images/I/41+94uSCQdL.jpg",
+    "author": "Джон Кехо",
+    "url": "https://www.amazon.com/Подсознание-может-Power-Century-Russian-ebook/dp/B07TP46YDN/ref=sr_1_1?crid=1NXVZ8SDPXDRG&keywords=Подсознание+может+всё%21&qid=1645220086&s=digital-text&sprefix=подсознание+может+всё+%2Cdigital-text%2C355&sr=1-1"
+    }
+
+]
